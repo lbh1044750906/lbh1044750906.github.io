@@ -4,4 +4,4 @@
 
 - Xiang Wu<sup>‡</sup>, **Bohao Li<sup>‡</sup>**, Boyang Zhang, Xiaofan Liu, Wei Ren*, and Kim-Kwang Raymond Choo. Attack analysis on two-party signature and threshold signature based on Dilithium. *In 2023 IEEE Symposium on computers and communications (ISCC)*, pp. 291-297, 2023. （Co-first author）
 
-\textsuperscript{‡}These authors contributed equally to this work.
+Note: <sup>‡</sup>These authors contributed equally to this work.
