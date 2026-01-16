@@ -4,8 +4,6 @@ I am currently pursuing a Ph.D. degree at the Institute of Information Engineeri
 
 **Hobbies & Interests:** Snooker, Chinese eight-ball, Singing, Traveling, and Art Design (currently exploring color theory).
 
-Beyond research, I'm always up for making new friends and hearing about your own "little adventures" in life. If you're looking for a collaborator or just a kindred spirit to share stories with, I’d be happy to connect!
-
 <!-- ### Email  
 <code>libohao@iie.ac.cn</code>  
 <code>boh_li@163.com</code> -->
@@ -22,4 +20,4 @@ Beyond research, I'm always up for making new friends and hearing about your own
 ### Research Interests  
 Privacy Compliance Check, Privacy Regulation Analysis, Mobile Privacy and Security, Privacy Computing, LLM Security
 
-
+Beyond research, I'm always up for making new friends and hearing about your own "little adventures" in life. If you're looking for a collaborator or just a kindred spirit to share stories with, I’d be happy to connect!
