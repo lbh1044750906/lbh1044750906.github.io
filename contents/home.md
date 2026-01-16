@@ -16,4 +16,4 @@ I am currently pursuing a Ph.D. degree at the Institute of Information Engineeri
 * **China University of Geosciences (CUG), Wuhan**, Bachelor of Engineering in Information Security, 2020 – 2024
 
 ### Research Interests  
-Privacy Compliance, App Security, Privacy Computing, Cybersecurity
+Privacy Compliance Check, Privacy Regulation Analysis, Mobile Privacy and Security, Privacy Computing, LLM Security
