@@ -14,7 +14,7 @@
 </div>
 
 <div class="news-card">
-  <div class="news-date">Jun 2024</div>
+  <div class="news-date">Sep 2024</div>
   <div class="news-body"><strong>PhD journey begins</strong> &mdash; Started doctoral studies at the Institute of Information Engineering, CAS.</div>
 </div>
 
