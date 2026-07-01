@@ -1,12 +1,12 @@
 <div class="pub-card">
   <div class="pub-title">SwapBackHash: State-Compressed Consistent Hashing Framework for Arbitrary Bucket Removals</div>
   <div class="pub-authors">Shoukun Guo, <strong>Bohao Li</strong>, Fenghua Li, Lingcui Zhang, Ben Niu, Yuqiao Hou<sup>*</sup></div>
-  <div class="pub-venue"><em>2026 International Conference on Intelligent Computing</em>, pp. xx-xx, 2026</div>
+  <div class="pub-venue"><em>2026 International Conference on Intelligent Computing (ICIC)</em>, pp. xx-xx, 2026</div>
 </div>
 <div class="pub-card">
   <div class="pub-title">An Efficient and Secure Information Management Approach for Remote PPG Biometric Authentication Systems</div>
   <div class="pub-authors">Liping Zhang<sup>*</sup>, Wenjie Deng, Hewen Pan, <strong>Bohao Li</strong>, Kim-Kwang Raymond Choo, Jing Chen</div>
-  <div class="pub-venue"><em>IEEE Transactions on Computers</em>, vol. 75, no. 2, pp. 680-692, Dec. 2025 <span class="pub-rank ccf-a">(CCF-A)</span></div>
+  <div class="pub-venue"><em>IEEE Transactions on Computers (TC)</em>, vol. 75, no. 2, pp. 680-692, Dec. 2025 <span class="pub-rank ccf-a">(CCF-A)</span></div>
 </div>
 
 
@@ -21,7 +21,7 @@
   <div class="pub-zh">
     <div class="pub-title">基于文本自动化分类的隐私政策合规技术研究</div>
     <div class="pub-authors">牛犇, <strong>李铂浩</strong>, 唐鹏, 孙雄韬, 侯雨桥<sup>*</sup>, 李凤华</div>
-    <div class="pub-venue"><em>信息安全学报</em>, 2024 <span class="pub-rank ccf-b">(CCF中文B)</span></div>
+    <div class="pub-venue"><em>信息安全学报</em>, 2024</div>
   </div>
   <div class="pub-en">
     <div class="pub-en-title">Privacy Policy Compliance Techniques Based on Automated Text Classification</div>
@@ -33,7 +33,7 @@
 <div class="pub-card">
   <div class="pub-title">CCBTC: A Blockchain-Based Covert Communication Scheme over Bitcoin Transactions</div>
   <div class="pub-authors">Rundong Wang, <strong>Bohao Li</strong>, Wei Ren<sup>*</sup>, Jie He</div>
-  <div class="pub-venue"><em>APWeb-WAIM 2023: International Joint Conference on Web and Big Data</em>, pp. 466-480, 2023</div>
+  <div class="pub-venue"><em>Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM)</em>, pp. 466-480, 2023</div>
 </div>
 
 <div class="pub-card">
